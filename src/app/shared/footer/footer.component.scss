@@ -1,0 +1,21 @@
+.app-footer {
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    height: 100%;
+    background: black;
+    color: white;
+
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    margin-top: 32px;
+
+    text-align: center;
+  }
+}
